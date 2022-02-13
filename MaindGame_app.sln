@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaindGame_app", "MaindGame_app\MaindGame_app.csproj", "{A6092132-E232-45CA-B413-19156216FFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6092132-E232-45CA-B413-19156216FFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6092132-E232-45CA-B413-19156216FFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6092132-E232-45CA-B413-19156216FFAE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A6092132-E232-45CA-B413-19156216FFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6092132-E232-45CA-B413-19156216FFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6092132-E232-45CA-B413-19156216FFAE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525383EB-7110-4FCE-A289-4E7D0581D9CC}
+	EndGlobalSection
+EndGlobal
